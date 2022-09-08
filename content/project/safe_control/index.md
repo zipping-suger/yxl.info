@@ -37,3 +37,4 @@ avoidance in dynamic environment is realized through deep visual perception of t
 hyperparameter adjustment. 
 
 The robot safety obstacle avoidance system proposed is successfully deployed on the service robot kinova Gen2 jaco2 robot, and experimental tests are carried out. The experiemnt results show that the proposed system allows robot to dynamically avoid colision during interactions with human while completing different tasks.
+

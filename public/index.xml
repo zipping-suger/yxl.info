@@ -42,6 +42,29 @@
 avoidance in dynamic environment is realized through deep visual perception of the environment. In addition, in order to improve the security and efficiency of the algorithm, an active hyperparameter optimizer for security algorithm is proposed to realize automatic
 hyperparameter adjustment.&lt;/p&gt;
 &lt;p&gt;The robot safety obstacle avoidance system proposed is successfully deployed on the service robot kinova Gen2 jaco2 robot, and experimental tests are carried out. The experiemnt results show that the proposed system allows robot to dynamically avoid colision during interactions with human while completing different tasks.&lt;/p&gt;
+&lt;h1 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;&lt;div class=&#34;container&#34;&gt;
+  &lt;div id=&#34;player-wrapper&#34; class=&#34;my-5&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script 
+  type=&#34;text/javascript&#34; 
+  src=&#34;https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js&#34;
+&gt;
+&lt;/script&gt;
+
+&lt;script&gt;
+  var playerElement = document.getElementById(&#34;player-wrapper&#34;);
+
+  var player = new Clappr.Player({
+    source: &#34;http://clappr.io/highline.mp4&#34;,
+    mute: true,
+    height: 360,
+    width: 640
+  });
+
+  player.attachTo(playerElement);  
+&lt;/script&gt;
+&lt;/h1&gt;
 </description>
     </item>
     
