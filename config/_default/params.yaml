@@ -8,7 +8,7 @@
 appearance:
   theme_day: mr_robot
   theme_night: mr_robot
-  font: mr_robot
+  font: mr_robotuse
   font_size: L
 
 # SEO
