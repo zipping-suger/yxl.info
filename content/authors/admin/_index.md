@@ -51,7 +51,7 @@ social:
     link: https://github.com/zipping-suger
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/yixiao-li-031a6624b
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -68,4 +68,4 @@ highlight_name: true
 ---
 Hi! My name is Yixiao Li. I graduated from Tsinghua University with degrees in Machenical Engineering and Statistics. My research interests lie in controls and reinforcement learning theory with applications in robotics. I am currently searching for opportunities to strengthen my research and engineering abilities.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
