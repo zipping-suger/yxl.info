@@ -35,4 +35,9 @@ For multi-step robotic manipulation, it is important but challenging to predict 
 This paper proposes a latent object-centric representation (LOR) that can encode implicit visual features from raw RGB images into a compact and generalizable representation of the object states suitable for future-state prediction. Based on LOR, LOR dynamic neural network (LOR-DNN) is proposed to simultaneously encode object states and predicts the future states with the applied actions of a robot. The learned LOR-DNN can generalize effectively to new situations and can even directly transfer from simulation to the real world. LOR-DNN can be used to plan action sequences to manipulate the object to achieve the target state, allowing the robot to perform multi-step manipulation tasks such as planar pushing. 
 
 Real-world experiments on pushing tasks demonstrate that the proposed method can achieve a high
-success rate on pushing previously unseen objects with diverse shapes and scales, outperforming state-of-the-art model-based and end-to-end methods including baselines that use ground-truth object poses. The proposed approach is an important step toward fully autonomous and generalizable visual-based robotic manipulation.
+success rate on pushing previously unseen objects with diverse shapes and scales, outperforming state-of-the-art model-based and end-to-end methods including baselines that use ground-truth object poses. The proposed approach is an important step toward fully autonomous and generalizable visual-based robotic manipulation. 
+
+Here is a experiment demonstration of the proposed method. Please have a look.
+
+{{< youtube WwxzAwZbOJU >}}
+

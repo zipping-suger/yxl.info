@@ -36,6 +36,6 @@ In this research, robot safety avoidance is the starting point to solve the safe
 avoidance in dynamic environment is realized through deep visual perception of the environment. In addition, in order to improve the security and efficiency of the algorithm, an active hyperparameter optimizer for security algorithm is proposed to realize automatic
 hyperparameter adjustment. 
 
-The robot safety obstacle avoidance system proposed is successfully deployed on the service robot kinova Gen2 jaco2 robot, and experimental tests are carried out. The experiemnt results show that the proposed system allows robot to dynamically avoid colision during interactions with human while completing different tasks.
+The robot safety obstacle avoidance system proposed is successfully deployed on the service robot kinova Gen2 jaco2 robot, and experimental tests are carried out. The experiemnt results show that the proposed system allows robot to dynamically avoid colision during interactions with human while completing different tasks, which are shown in the video attached.
 
-{{< youtube Q-Qwjz8Zmh0 >}}
+{{< youtube tuJsENionKQ >}}
