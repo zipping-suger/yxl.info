@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: liyixiao18@tsinghua.org.cn 
-  phone: (+86) 18999911262
+  email: zippingsugar@gmail.com
+  phone: (+41) 767398847
 #  address:
 #    street: 450 Serra Mall
 #    city: Stanford

@@ -18,13 +18,15 @@ bio: My research interests include controls and reinforcement learning with appl
 
 # Interests to show in About widget
 interests:
-  - Controls
-  - Robotics
-  - Reinforcement Learning
+  - Controls & Reinforcement Learning
+  - Robot Dynamic Manipulation
 
 # Education to show in About widget
 education:
   courses:
+    - course: Master of Science in Robotics, Systems and Control
+      institution: ETH Zurich
+      year: 2023-Present
     - course: BEng in Mechanical Engineering
       institution: Tsinghua Univeristy
       year: 2018-2022
@@ -61,11 +63,15 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'liyixiao18@tsinghua.org.cn '
+email: 'zippingsugar@gmail.com '
+# email: 'liyixiao18@tsinghua.org.cn '
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! My name is Yixiao Li. I graduated from Tsinghua University with degrees in Machenical Engineering and Statistics. My research interests lie in controls and reinforcement learning theory with applications in robotics. I am currently searching for opportunities to strengthen my research and engineering abilities.  
+Hi! My name is Yixiao Li. I am currently pursuing my master’s degree in Robotics, Systems and Control at ETH Zurich. I graduated from Tsinghua University in 2022. After that, I worked as a research assistant at the Hong Kong Centre For Logistics Robotics/CUHK T Stone Robotics Institute. 
+
+My research interests lie in controls and learning with applications in dynamic manipulation tasks for robotics. Apart from research, I also enjoy hiking, photography and really LOUD music!
+
 
 {{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

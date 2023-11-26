@@ -2,7 +2,7 @@
 title: Learning Latent Object-Centric Representations for Visual-Based Robot Manipulation
 summary:  Object-Centric representations for learning manipulation skills.
 tags:
-  - Robert Learning
+  - Robot Learning
 date: '2021-03-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
