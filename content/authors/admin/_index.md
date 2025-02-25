@@ -14,12 +14,12 @@ organizations:
     url: www.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include controls and reinforcement learning with applications in robotics.
+bio: My research interests include optimization and deep learning with applications in robotics.
 
 # Interests to show in About widget
 interests:
-  - Controls & Reinforcement Learning
-  - Robot Dynamic Manipulation
+  - Robot Manipulation
+  - Optimization & Deep Learning
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ highlight_name: true
 ---
 Hi! My name is Yixiao Li. I am currently pursuing my master’s degree in Robotics, Systems and Control at ETH Zurich. I graduated from Tsinghua University in 2022. After that, I worked as a research assistant at the Hong Kong Centre For Logistics Robotics/CUHK T Stone Robotics Institute. 
 
-My research interests lie in controls and learning with applications in dynamic manipulation tasks for robotics. Apart from research, I also enjoy hiking, photography and really LOUD music!
+My research interests lie in optimization and deep learning with applications in manipulation tasks for robotics. Apart from research, I also enjoy hiking and photography.
 
 
 {{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
