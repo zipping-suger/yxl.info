@@ -59,14 +59,14 @@ item:
     title: Excellent Academic Scholarship of Tsinghua University (each year)
     url: ''
     
-  - certificate_url: 'https://zipping-suger.github.io/documents/'
-    date_end: ''
-    date_start: '2022-07-11'
-    description: ''
-    organization: 7th IEEE International Conference on Advanced Robotics and Mechatronics
-    organization_url: ''
-    title: Best Conference Paper Finalist
-    url: ''
+  # - certificate_url: 'https://zipping-suger.github.io/documents/'
+  #   date_end: ''
+  #   date_start: '2022-07-11'
+  #   description: ''
+  #   organization: 7th IEEE International Conference on Advanced Robotics and Mechatronics
+  #   organization_url: ''
+  #   title: Best Conference Paper Finalist
+  #   url: ''
 
 
 design:

@@ -27,14 +27,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Robot Learning
-      tag: Robot Learning
-    - name: Safe Control
-      tag: Safe Control
-    - name: Affordance Learning
-      tag: Affordance Learning
-    - name: Dynamic Bin-picking
-      tag: dbq
+    # - name: Robot Learning
+    #   tag: Robot Learning
+    # - name: Safe Control
+    #   tag: Safe Control
+    # - name: Affordance Learning
+    #   tag: Affordance Learning
+    # - name: Dynamic Bin-picking
+    #   tag: Dynamic Bin-picking
+    # - name: Deep Manipulation Memory
+    #   tag: Deep Manipulation Memory
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

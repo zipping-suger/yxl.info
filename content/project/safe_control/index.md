@@ -9,7 +9,7 @@ date: '2022-01-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Snapshot of dynamic obstacle avoidance
   focal_point: Smart
 
 # links:
