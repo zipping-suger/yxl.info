@@ -71,7 +71,7 @@ highlight_name: true
 ---
 Hi! My name is Yixiao Li. I am currently pursuing my master’s degree in Robotics, Systems and Control at ETH Zurich. I graduated from Tsinghua University in 2022. After that, I worked as a research assistant at the Hong Kong Centre For Logistics Robotics/CUHK T Stone Robotics Institute. 
 
-My research interests lie in optimization and deep learning with applications in manipulation tasks for robotics. Apart from research, I also enjoy hiking and photography.
+My research interests lie in optimization and deep learning with applications in manipulation tasks for robotics. Apart from research, I also enjoy hiking, photography and hitting the gym!
 
 
 {{< icon name="download" pack="fas" >}} Open my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

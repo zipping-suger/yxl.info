@@ -2,7 +2,7 @@
 title: A Framework for Efficient and Robust Dynamic Bin-Picking
 summary: Robot dynamic Bin-Picking
 tags:
-  - dbq
+  - Dynamic Bin-Picking
 date: '2023-03-10T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
